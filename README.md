@@ -1,4 +1,4 @@
-# graphicsengine
+# 2DEngine
 
 #### Needs libnoise and SDL2, SDL2_image, SDL2_ttf dev packages to compile.
 
